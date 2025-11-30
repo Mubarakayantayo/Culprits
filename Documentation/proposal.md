@@ -79,7 +79,7 @@ Goal: *Make it work well enough to demonstrate feasibility — not perfection.*
 
 ---
 
-## 3️⃣ Paper on DDoS Attacks *(Low Interest — Assignment Only)*
+## 3️ Paper on DDoS Attacks *(Low Interest — Assignment Only)*
 
 > Minimal effort project for requirement completion.
 
