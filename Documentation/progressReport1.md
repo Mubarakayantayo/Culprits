@@ -130,7 +130,7 @@ malware samples that are later classified with VirusTotal to identify botnet act
 
 ---
 
-### 2.3 ⚠️ Challenges Encountered
+### 2.3 Challenges Encountered
 
 #### Technical Challenges
 - At the moment none; just following instructions from past experience and researching more
